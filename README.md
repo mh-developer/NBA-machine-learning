@@ -1,3 +1,3 @@
 # NBA Machine learning - Artificial intelligence
 
-In this seminar work I created machine learning which predict results of NBA matches.
+In this seminar paper I created a machine learning algorithms, which predicts result of NBA matches.
